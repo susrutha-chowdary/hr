@@ -15,7 +15,8 @@ The workbook contains data in 3 different workshets with dates as the columns. I
 
 ## Inferences:
 ```
-- The total work from home employee percentage over 3 moths is 10%. Which means on an average we can find 10 employees working form home on any given day.
+- The total work from home employee percentage over 3 moths is 10%. 
+   Which means on an average we can find 10 employees working form home on any given day.
 - The sick leave percent is not abnormal so there is no need to worry about any viral disease.
 - From the charts we can find the present % is declining towards june while sick leave % is slightly increasing.
 - We can infer that highest percentage if attendance is recorded on mondays and tuesdays.{Towards the starting of the week}
