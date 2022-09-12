@@ -1,6 +1,7 @@
 # A dashboard to analyse a company's employees attendance records
 ## Description:
-``` The dataset is an Excel workbook that contains employees attendance data of a company for 3 months in different worksheets. The main reason for this dashbord id to find out some insights into employees trends like: 
+ The dataset is an Excel workbook that contains employees attendance data of a company for 3 months in different worksheets. The main reason for this dashbord id to find out some insights into employees trends like: 
+```
 - what is the working prefrence of an employee? {work from home or office}
 - which days of the week are more popular for work from home to working from office?
 - find out the percentage of sick leave. If it is >10% then, Is it an indication of some viral disease like flu or covid 19?
